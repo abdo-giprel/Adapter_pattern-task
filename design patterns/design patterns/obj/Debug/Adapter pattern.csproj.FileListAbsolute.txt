@@ -1,0 +1,6 @@
+D:\abdo\FCI\my work\web\mosh hamadani\design patterns\design patterns\bin\Debug\design patterns.exe.config
+D:\abdo\FCI\my work\web\mosh hamadani\design patterns\design patterns\bin\Debug\design patterns.exe
+D:\abdo\FCI\my work\web\mosh hamadani\design patterns\design patterns\bin\Debug\design patterns.pdb
+D:\abdo\FCI\my work\web\mosh hamadani\design patterns\design patterns\obj\Debug\Adapter pattern.csprojResolveAssemblyReference.cache
+D:\abdo\FCI\my work\web\mosh hamadani\design patterns\design patterns\obj\Debug\design patterns.exe
+D:\abdo\FCI\my work\web\mosh hamadani\design patterns\design patterns\obj\Debug\design patterns.pdb
